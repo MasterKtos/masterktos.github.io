@@ -255,6 +255,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
+  jekyll-remote-theme
   webrick (~> 1.8)
 
 BUNDLED WITH
