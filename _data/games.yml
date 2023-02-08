@@ -9,7 +9,7 @@
     description: 3
   - name: Responsibilities
     description: Scripting, level building, graphics
-  - name: Created by me
+  - name: Accountable for
     description: NPC system, combat system (with other team member); cursor, NPC &  scythe sprite
 - name: GPGame
   description: Platformer game with cute but dangerous guinea-pig hero, that fights and moves with a help of a staff
@@ -22,7 +22,7 @@
     description: 3
   - name: Responsibilities
     description: Scripting, level building, graphics
-  - name: Created by me
+  - name: Accountable for
     description: NPC system, combat system, main hero graphics & animations, audio system
 - name: Kenaz Engine
   description: An SDL-based game engine with joystick support and simple platformer game developed on it
