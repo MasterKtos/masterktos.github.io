@@ -5,22 +5,16 @@ title: Home
 
 # Skills
 
-- Game development:
+- **Game development:**
     - Unity
     - Unreal
-
-
-- 3D modeling:
+- **3D modeling:**
     - Blender
-
-
-- Programming:
+- **Programming:**
     - C++
     - C#
     - Python
-
-
-- Other:
+- **Other:**
     - Github
     - Jira
 
