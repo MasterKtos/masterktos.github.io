@@ -32,4 +32,4 @@ title: Home
 
 - Applied IT
     - specialization: Games and Computer Simulation Technologies
-- 5 semester
+- 5th semester
