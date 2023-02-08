@@ -22,7 +22,7 @@ title: Home
 
 ### Teyon
 
-- one-month internship
+- internship
 - designed UI modules and programmed logic behind them
 - learned to work with large scale project
 
