@@ -8,12 +8,21 @@ title: Home
 - Game development:
     - Unity
     - Unreal
+
+<br/>
+
 - 3D modeling:
     - Blender
+
+<br/>
+
 - Programming:
     - C++
     - C#
     - Python
+
+<br/>
+
 - Other:
     - Github
     - Jira
