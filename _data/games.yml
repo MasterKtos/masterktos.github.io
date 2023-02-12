@@ -1,6 +1,6 @@
 - name: The Plague
   description: Roguelike where you combine weapons
-  # itchio_link: 
+  itchio_link: https://masterktos.itch.io/theplague
   # repo_link:
   details:
   - name: Development period
