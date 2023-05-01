@@ -84,7 +84,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/renders/2023/example_scene.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/gameBanners/kenaz.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
