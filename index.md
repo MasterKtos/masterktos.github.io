@@ -1,35 +1,11 @@
 ---
-layout: default
+layout: home
 title: Home
+landing-title: 'Hi, my name is Ktosiek'
+description: null
+image: null
+author: null
+show_tile: false
 ---
 
-# Skills
-
-- Game development:
-    - Unity
-    - Unreal
-- 3D modeling:
-    - Blender
-- Programming:
-    - C++
-    - C#
-    - Python
-- Other:
-    - Github
-    - Jira
-
-# Experience
-
-### Teyon
-
-- one-month internship
-- designed UI modules and programmed logic behind them
-- learned to work with large scale project
-
-# Education
-
-### Lodz University of Technology (Politechnika Łódzka)
-
-- Applied IT
-    - specialization: Games and Computer Simulation Technologies
-- 5 semester
+Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.

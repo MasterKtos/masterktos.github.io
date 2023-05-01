@@ -1,3 +1,6 @@
-.vscode
-_site
-.git
+_site/
+.sass-cache/
+.jekyll-metadata
+Gemfile.lock
+*.gem
+.jekyll-cache
