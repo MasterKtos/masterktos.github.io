@@ -54,7 +54,7 @@ nav-menu: true
 				<p>Platformer game with cute but dangerous guinea pig hero, that moves and fights with a help of a staff</p>
 				<ul class="actions">
 					<li><a href="https://masterktos.itch.io/gpgame" class="button small icon fa-itch-io">See on itch.io</a></li>
-                    <!-- <li><a href="#" class="button small icon fa-github">See on GitHub</a></li> -->
+                    <li><a href="#" class="button disabled small icon fa-github">See on GitHub</a></li>
 				</ul>
 			</div>
 		</div>
@@ -77,7 +77,7 @@ nav-menu: true
 				<p>A rogue-like game where you combine weapons to make them more powerful</p>
 				<ul class="actions">
 					<li><a href="https://masterktos.itch.io/theplague" target="_blank" class="button small icon fa-itch-io">See on itch.io</a></li>
-                    <li><a href="#" class="button small icon fa-github">See on GitHub</a></li>
+                    <li><a href="#" class="button disabled small icon fa-github">See on GitHub</a></li>
 				</ul>
 			</div>
 		</div>
@@ -98,6 +98,7 @@ nav-menu: true
                 </ul>
 				<p>An SDL-based game engine with joystick support and simple platformer game developed on it</p>
 				<ul class="actions">
+					<li><a href="#" target="_blank" class="button disabled small icon fa-itch-io">See on itch.io</a></li>
                     <li><a href="https://github.com/MasterKtos/KenazEngine" target="_blank" class="button small icon fa-github">See on GitHub</a></li>
 				</ul>
 			</div>
