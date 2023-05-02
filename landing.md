@@ -111,6 +111,28 @@ nav-menu: true
 </div>
 </section>
 
+<section id="two">
+<div class="inner">
+	<header>
+		<h4>Thanks for scrolling this far! Here are some pictures of my guinea pig</h4>
+	</header>
+	<div class="row">
+		<div class="3u 12u$(medium)">
+			<span class="image fit"><img src="{% link assets/images/guineaPig/1.jpg %}" alt="" /></span>
+		</div>
+		<div class="3u 12u$(medium)">
+			<span class="image fit"><img src="{% link assets/images/guineaPig/2.jpg %}" alt="" /></span>
+		</div>
+		<div class="3u 12u$(medium)">
+			<span class="image fit"><img src="{% link assets/images/guineaPig/3.jpg %}" alt="" /></span>
+		</div>
+		<div class="3u 12u$(medium)">
+			<span class="image fit"><img src="{% link assets/images/guineaPig/4.jpg %}" alt="" /></span>
+		</div>
+	</div>
+</div>
+</section>
+
 <!-- Two -->
 <!-- <section id="two" class="spotlights">
 	<section>
