@@ -20,6 +20,15 @@
 <summary>Odpowiedź</summary>
 
 > Architektura samodzielna
+>
+> Pozostałe architektury:
+> - architektura współdzielona
+> 
+>   ![schemat](2_wspoldzielona.png)
+> 
+> - architektura Unreal Engine
+> 
+>   ![schemat](2_unreal.png)
 
 </details>
 
