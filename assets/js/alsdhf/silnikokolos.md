@@ -143,12 +143,22 @@
 
 11. Działanie której z wymienionych podzielonych pętli gry pokazuje poniższy rysunek?
 
-        [Main]    [Animation]   [Dynamics]  [Rendering]
+![schemat](11_schemat.png)
 
 <details>
 <summary>Odpowiedź</summary>
 
+> Podsystemy w dedykowanych wątkach
+>
+> Z prezentacji (09):
 > 
+> Rozbicie czynności na zadania, które mogą być wykonywane równolegle:
+> - SIMD
+> - fork i join
+> - podsystemy w wątkach
+> - zadania
+> 
+> Wykonywanie asynchroniczne
 
 </details>
 
