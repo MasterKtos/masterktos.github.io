@@ -146,10 +146,16 @@
 
 ![schemat](11_schemat.png)
 
+*(odpowiedzi nie było na screenie, więc te tutaj podane są tylko z domysłu)*
+- [ ] SIMD
+- [ ] fork i join
+- [ ] podsystemy w wątkach
+- [ ] zadania
+
 <details>
 <summary>Odpowiedź</summary>
 
-> Podsystemy w dedykowanych wątkach
+> Podsystemy w wątkach
 >
 > Z prezentacji (09):
 > 
