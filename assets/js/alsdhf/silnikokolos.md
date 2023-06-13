@@ -20,7 +20,7 @@
 <summary>Odpowiedź</summary>
 
 > Architektura samodzielna
->
+
 > Pozostałe architektury:
 > - architektura współdzielona
 > 
@@ -42,7 +42,7 @@
 <details>
 <summary>Odpowiedź</summary>
 
-*TO CHECK*
+> - [x] obsługa mediów charakterystycznych dla konsol
 > - [x] obsługa wieloplatformowości silnika
 
 </details>
@@ -57,7 +57,6 @@
 <details>
 <summary>Odpowiedź</summary>
 
-*TO CHECK*
 > nie może być użyty do zbudowania innej gry
 
 </details>
@@ -67,6 +66,28 @@
 5. Jaki typ architektury game objectu pokazuje poniższy rysunek?
 
 ??
+
+<details>
+<summary>Odpowiedź</summary>
+
+> Z prezentacji (7):
+>
+> Architektury object-centric:
+> - **nieobiektowa** - specjalizowane struktury przechowujące konkretne typy obiektów
+> - **monolityczna hierarchia klas**
+> 
+>   ![schemat](5_monolityczna.png)
+> - używająca **kompozycji**
+> 
+>   ![schemat](5_kompozycja.png)
+> - używająca **uogólnionych komponentów**
+> 
+>   ![schemat](5_uogolnione.png)
+> - **czysto komponentowa**
+> 
+>   ![schemat](5_czysta.png)
+
+</details>
 
 ---
 
@@ -78,8 +99,15 @@
 <details>
 <summary>Odpowiedź</summary>
 
-*TO CHECK*
 > Δt obliczane na bazie ostatniej ramki
+
+> Z prezentacji:
+> 
+> Δt jest zmierzone jako różnica między chwilą rozpoczęcia a zakończenia obliczeń poprzedniej ramki.
+>
+> Rozwiązanie używane w większości gier.
+>
+> Może doprowadzić, po wystąpieniu zbyt długiej ramki, do powstawania serii ramek, które są dwa razy dłuższe, niż powinny, ponieważ zależności między podsystemami powodują oczekiwanie
 
 </details>
 
@@ -93,7 +121,6 @@
 <details>
 <summary>Odpowiedź</summary>
 
-*TO CHECK*
 > Resources
 
 </details>
@@ -110,7 +137,7 @@
 <summary>Odpowiedź</summary>
 
 > jeżeli chodzi ogólnie o strumieniowanie, to użycie małego obszaru pamięci w porównaniu do całościowego rozmiaru pliku (rezerwacja pamięci tylko na ułamek swojej wielkości)
->
+
 > Z prezentacji (7):
 > 
 > Ładowanie danych świata:
@@ -130,7 +157,6 @@
 <details>
 <summary>Odpowiedź</summary>
 
-*TO CHECK*
 > data-driven architecture
 
 </details>
@@ -165,7 +191,7 @@
 <summary>Odpowiedź</summary>
 
 > Podsystemy w wątkach
->
+
 > Z prezentacji (09):
 > 
 > Rozbicie czynności na zadania, które mogą być wykonywane równolegle:
