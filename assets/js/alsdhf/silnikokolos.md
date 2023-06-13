@@ -103,6 +103,7 @@
 > jeżeli chodzi ogólnie o strumieniowanie, to użycie małego obszaru pamięci w porównaniu do całościowego rozmiaru pliku (rezerwacja pamięci tylko na ułamek swojej wielkości)
 >
 > Z prezentacji (7):
+> 
 > Ładowanie danych świata:
 > - ładowanie proste - z użyciem ekranów ładowania
 > - użycie *air lock* - bardzo małe chunki świata, które zajmują gracza na czas ładowania dużego chunka
