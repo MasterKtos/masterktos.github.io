@@ -201,9 +201,16 @@
 > 
 > Rozbicie czynności na zadania, które mogą być wykonywane równolegle:
 > - SIMD
+>
+> 	![schemat](11_simd1.png)
+>   ![schemat](11_simd2.png)
 > - fork i join
-> - podsystemy w wątkach
-> - zadania
+> 	
+> 	![schemat](11_fork.png)
+> - podsystemy w wątkach (j.w.)
+> - zadania (jobs)
+> 	
+> 	![schemat](11_jobs.png)
 > 
 > Wykonywanie asynchroniczne
 
