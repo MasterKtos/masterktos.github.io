@@ -234,4 +234,6 @@
 
 ---
 
+### Schemat architektury silnika gier
+
 ![engine architecture](RuntimeGameEngineArchitecture.png)
