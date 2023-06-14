@@ -8,6 +8,9 @@
 
 > Sztuczna inteligencja
 
+> **fizyka** 120 Hz
+> **rendering i animacja** 30/60 Hz (animacja zsynchronizowana z renderingiemn)
+
 </details>
 
 ---
