@@ -65,18 +65,23 @@
 
 5. Jaki typ architektury game objectu pokazuje poniższy rysunek?
 
-??
+![schemat](13_schemat.png)
+
+- [ ] architektura czysto komponentowa
+- [ ] architektura używająca kompozycji
+- [ ] architektora używająca uogólnionych komponentów
+- [ ] monolityczna hierarchia klas
 
 <details>
 <summary>Odpowiedź</summary>
+
+> monolityczna hierarchia klas
 
 > Z prezentacji (7):
 >
 > Architektury object-centric:
 > - **nieobiektowa** - specjalizowane struktury przechowujące konkretne typy obiektów
 > - **monolityczna hierarchia klas**
-> 
->   ![schemat](5_monolityczna.png)
 > - używająca **kompozycji**
 > 
 >   ![schemat](5_kompozycja.png)
@@ -217,25 +222,6 @@
 
 > - [x] rendering 3D dla gier 3D
 > - [x] HID
-
-</details>
-
----
-
-
-13. Co prezentuje poniższy schemat:
-
-![schemat](13_schemat.png)
-
-- [ ] architektura czysto komponentowa
-- [ ] architektura używająca kompozycji
-- [ ] architektora używająca uogólnionych komponentów
-- [ ] monolityczna hierarchia klas
-
-<details>
-<summary>Odpowiedź</summary>
-
-> monolityczna hierarchia klas
 
 </details>
 
