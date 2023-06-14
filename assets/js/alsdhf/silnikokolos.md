@@ -69,7 +69,7 @@
 
 5. Jaki typ architektury game objectu pokazuje poniższy rysunek?
 
-![schemat](13_schemat.png)
+![schemat](5_monolityczna.png)
 
 - [ ] architektura czysto komponentowa
 - [ ] architektura używająca kompozycji
