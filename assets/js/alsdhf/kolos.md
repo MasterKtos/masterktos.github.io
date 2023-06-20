@@ -35,7 +35,8 @@
 <details>
 <summary>Odpowiedź</summary>
 
-> 
+> - [x] przejście(?) materiałów
+> - [x] wypełnianie bufora głębokości
 
 </details>
 
@@ -122,6 +123,7 @@
 <summary>Odpowiedź</summary>
 
 > - [x] przedstawia model oświetlenia Phonga
+> - [x] wymaga informacji o położeniu obserwatora
 > - [x] zawiera model oświetlenia Lamberta
 
 </details>
@@ -138,5 +140,39 @@
 <summary>Odpowiedź</summary>
 
 > - [x] reflect
+
+</details>
+
+---
+
+10. Między jakimi etapami potoku renderingu znajduje się Geometry Shader?
+
+<details>
+<summary>Odpowiedź</summary>
+
+> Vertex Shader i Rasterize Stage
+
+</details>
+
+---
+
+11. Jakiego przekształcenia jest ta macierz?
+
+```math
+\begin{bmatrix}
+	s\ 0\ 0\\
+	0\ s\ 0\\
+	0\ 0\ 1
+\end{bmatrix}
+```
+
+- [ ] translacja
+- [ ] rotacja
+- [ ] skalowanie  
+
+<details>
+<summary>Odpowiedź</summary>
+
+> skalowanie
 
 </details>
